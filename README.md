@@ -14,4 +14,5 @@ I post solutions to the questions I've come across in Google Foobar. Special tha
 - Q3. prepare_the_bunnies_escape.py
 
 ## Level 4
-Yet to Arrive!
+- Q1. free_the_bunny_prisoners.py
+- Q2. escape_pods.py
