@@ -1,4 +1,8 @@
 # Google Foobar
+![Issues](https://img.shields.io/github/issues/aaishikasb/Foobar)
+![Stars](https://img.shields.io/github/stars/aaishikasb/Foobar)
+![License](https://img.shields.io/github/license/aaishikasb/Foobar)
+![Collaborators](https://img.shields.io/badge/collaborators-2-red) <br>
 I post solutions to the questions I've come across in Google Foobar. Special thanks to @smaranjitghose bhaiya for taking the time to help me out with different problems! The syntax used is of Python 2.7.
 
 ## Overview 
